@@ -18,4 +18,3 @@ I'm currently learned the LPIC2 and trying to learn deeper.
 I'll be so happy if I can help you in any way.
 I just started contributing.
 I can help you in Linux, python, Networking and Cyber Secutiry.
-![<Mani>](https://img.shields.io/badge/<Hello>-<white>?style=for-the-badge&logo=<Mani Icon>&logoColor=<blue>)
