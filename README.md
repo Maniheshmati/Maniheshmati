@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learned the LPIC2 and trying to learn deeper.
+I'll be so happy if I can help you in any way.
+I just started contributing.
+I can help you in Linux, python, Networking and Cyber Secutiry.
